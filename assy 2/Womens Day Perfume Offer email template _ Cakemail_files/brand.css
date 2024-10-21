@@ -1,0 +1,35 @@
+:root{
+    
+        --primary-brand-color-darken:#38003b;
+    
+        --background-color-2:#F8F8F8;
+    
+        --secondary-brand-color-darken:#078d81;
+    
+        --error-brand-color:#FD206F;
+    
+        --background-color-1:#FFFFFF;
+    
+        --body-font-color:#4A4A4A;
+    
+        --secondary-brand-color:#0ABDAE;
+    
+        --text-font:proxima-nova, Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif;
+    
+        --heading-font:aller, Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif;
+    
+        --error-brand-color-darken:#cf024b;
+    
+        --warning-brand-color:#FF9E0E;
+    
+        --primary-brand-color:#69006E;
+    
+        --success-brand-color:#0ABDAE;
+    
+        --body-font-color-2:#9B9B9B;
+    
+        --body-font-color-3:var(--primary-brand-color);
+    
+        --spinner-stroke-outer:#85ded6;
+    
+}
